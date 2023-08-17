@@ -1,0 +1,47 @@
+.container {
+  margin: 0 auto;
+  max-width: 1180px;
+  padding: 0px 20px;
+}
+
+.title {
+  font-family: "Tinos";
+  font-weight: 400;
+  font-size: 54px;
+}
+
+.title span {
+  color: #D67E34;
+}
+
+h1 {
+  font-family: "Tinos";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 54px;
+  line-height: 62px;
+  color: #FFFFFF;
+  text-align: center;
+}
+
+h3 {
+  font-family: "Tinos";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 30px;
+}
+
+.btn {
+  background-color: #FF7400;
+
+}
+
+.btn a {
+  color: #FFFFFF;
+  font-size: 14px;
+  text-transform: uppercase;
+  padding: 14px 19px;
+  display: block;
+  height: 100%;
+}

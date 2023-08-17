@@ -1,0 +1,76 @@
+@font-face {
+    font-family: "Open Sans";
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: local("Open Sans"), url(../fonts/Cookie,Open_Sans,Tinos/OpenSans-VariableFont_wdth,wght.woff) format("woff"),
+        url(../fonts/Cookie,Open_Sans,Tinos/MiConv.com__OpenSans-VariableFont_wdth,wght.woff2) format("woff2");
+}
+
+@font-face {
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: 600;
+    src: local("Open Sans"), url(../fonts/Cookie,Open_Sans,Tinos/OpenSans-SemiBold.woff) format("woff"),
+        url(../fonts/Cookie,Open_Sans,Tinos/MiConv.com__OpenSans-SemiBold.woff2) format("woff2");
+}
+
+@font-face {
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: 700;
+    src: local("Open Sans"), url(../fonts/Cookie,Open_Sans,Tinos/OpenSans-Bold.woff) format("woff"),
+        url(../fonts/Cookie,Open_Sans,Tinos/MiConv.com__OpenSans-Bold.woff2) format("woff2");
+}
+
+@font-face {
+    font-family: "Open Sans";
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+    src: local("Open Sans"), url(../fonts/Cookie,Open_Sans,Tinos/OpenSans-Italic-VariableFont_wdth,wght.woff) format("woff"),
+        url(../fonts/Cookie,Open_Sans,Tinos/MiConv.com__OpenSans-Italic-VariableFont_wdth,wght.woff2) format("woff2");
+}
+
+@font-face {
+    font-family: "Tinos";
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: local("Tinos"), url(../fonts/Cookie,Open_Sans,Tinos/Tinos-Regular.woff) format("woff"),
+        url(../fonts/Cookie,Open_Sans,Tinos/Tinos-Regular.woff2) format("woff2");
+}
+
+@font-face {
+    font-family: "Tinos";
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+    src: local("Tinos"), url(../fonts/Cookie,Open_Sans,Tinos/Tinos-Italic.woff) format("woff"),
+        url(../fonts/Cookie,Open_Sans,Tinos/Tinos-Italic.woff2) format("woff2");
+}
+
+@font-face {
+    font-family: "Tinos";
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+    src: local("Tinos"), url(../fonts/Cookie,Open_Sans,Tinos/Tinos-BoldItalic.woff) format("woff"),
+        url(../fonts/Cookie,Open_Sans,Tinos/Tinos-BoldItalic.woff2) format("woff2");
+}
+
+@font-face {
+    font-family: "Tinos";
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: local("Tinos"), url(../fonts/Cookie,Open_Sans,Tinos/Tinos-BoldItalic.woff) format("woff");
+}
+
+@font-face {
+    font-family: "Cookie";
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: local("Cookie"), url(../fonts/Cookie,Open_Sans,Tinos/MiConv.com__Cookie-Regular.woff2) format("woff2");
+}
